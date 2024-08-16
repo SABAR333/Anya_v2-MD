@@ -57,10 +57,10 @@
          },
          "MongoDB": {
             "description": "Enter your mongodb connection url",
-            "required": true
+            "required": false
          },
          "SESSION_ID": {
-            "description": "Enter your session id",
+            "description": "YlZJbEdSeFIjSHlIY2RJcVFwcnRoc2ZxOXhiT_Queen-Anya_HlVOWJ5bmlhRkZlWmRxdT_Queen-Anya_lRQ0NZdT_Queen-Anya_Nqaw==",
             "required": true
          }
     },
